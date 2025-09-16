@@ -75,13 +75,10 @@ To get started with RISK-GUARD AI, you will need to have the following installed
 
 Further instructions on installation and setup will be provided in the project's documentation.
 
-## Contribution
-
-We welcome contributions to RISK-GUARD AI. If you are interested in contributing, please fork the repository and submit a pull request. We are particularly interested in contributions in the following areas:
-
-*   Enhancements to our machine learning models
-*   Improvements to our ETL pipeline
-*   New data source integrations
-*   Advanced XAI techniques
+## Contributors
+* Mohamad Ali Patel
+* Kaustubh Patil
+* Aaditya Singh Tomar
+* Ashish Tamhankar
 
 ---

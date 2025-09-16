@@ -1,0 +1,25 @@
+location,year,month,average_temperature,precipitation,humidity,wind_speed,extreme_weather_events,flood_risk_level,storm_frequency,heat_wave_days,cold_snap_days
+New York NY,2020,January,32.5,3.2,65,12.3,blizzard,moderate,2,0,8
+New York NY,2020,February,35.2,2.8,68,11.8,heavy_snow,moderate,1,0,5
+New York NY,2020,March,45.8,4.1,72,13.2,flooding,high,3,0,2
+New York NY,2020,April,55.4,3.9,75,14.1,thunderstorm,moderate,4,1,0
+New York NY,2020,May,65.2,4.5,78,12.8,severe_storm,moderate,5,2,0
+New York NY,2020,June,74.8,4.2,80,11.5,heat_wave,low,3,5,0
+New York NY,2020,July,79.5,3.8,82,10.9,heat_wave,low,2,8,0
+New York NY,2020,August,78.2,4.1,81,11.2,thunderstorm,moderate,4,6,0
+New York NY,2020,September,70.8,3.6,77,12.4,tropical_storm,high,2,3,0
+New York NY,2020,October,59.4,3.9,73,13.7,heavy_rain,moderate,3,1,0
+New York NY,2020,November,48.7,3.4,69,14.2,wind_storm,moderate,2,0,1
+New York NY,2020,December,38.9,3.7,66,13.8,blizzard,moderate,1,0,6
+New York NY,2021,January,31.2,4.2,67,15.1,extreme_cold,high,1,0,12
+New York NY,2021,February,33.8,3.1,70,14.5,heavy_snow,moderate,2,0,7
+New York NY,2021,March,47.1,4.8,74,13.9,flooding,high,4,0,1
+New York NY,2021,April,57.3,4.3,76,12.6,severe_storm,moderate,5,1,0
+New York NY,2021,May,67.8,4.7,79,11.8,thunderstorm,moderate,6,3,0
+New York NY,2021,June,76.4,4.0,82,10.7,heat_wave,low,3,7,0
+New York NY,2021,July,81.2,3.5,84,9.8,extreme_heat,low,2,12,0
+New York NY,2021,August,80.1,4.4,83,10.3,hurricane,high,1,9,0
+New York NY,2021,September,72.6,4.6,79,12.1,tropical_storm,high,3,4,0
+New York NY,2021,October,61.8,4.1,75,13.3,heavy_rain,moderate,4,2,0
+New York NY,2021,November,50.3,3.8,71,14.0,wind_storm,moderate,3,0,2
+New York NY,2021,December,40.5,4.0,68,13.5,blizzard,moderate,2,0,8

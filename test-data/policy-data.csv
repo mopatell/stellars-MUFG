@@ -1,0 +1,16 @@
+policy_id,policy_type,premium_amount,coverage_limit,deductible,policy_holder,effective_date,expiration_date,risk_score,claims_count,status,renewal_rate
+POL001,Commercial Property,2500,1000000,5000,ABC Corp,2024-01-01,2024-12-31,75,2,active,8.5
+POL002,General Liability,1800,2000000,2500,XYZ Inc,2024-02-01,2025-01-31,65,0,active,6.2
+POL003,Cyber Liability,3200,5000000,10000,Tech Solutions,2024-01-15,2024-12-15,85,1,active,12.3
+POL004,Property Insurance,1950,750000,3000,Retail Store,2024-03-01,2025-02-28,70,3,active,7.8
+POL005,Professional Liability,2200,3000000,5000,Law Firm,2024-01-01,2024-12-31,60,0,active,5.5
+POL006,Commercial Auto,1500,1000000,1000,Delivery Co,2024-02-15,2025-02-14,80,4,active,9.1
+POL007,Workers Comp,2800,500000,2500,Manufacturing,2024-01-01,2024-12-31,90,2,active,15.2
+POL008,Directors & Officers,4500,10000000,25000,Public Corp,2024-01-01,2024-12-31,55,0,active,4.8
+POL009,Errors & Omissions,1900,2000000,5000,Consulting,2024-03-01,2025-02-28,65,1,active,6.5
+POL010,Product Liability,2600,5000000,10000,Manufacturer,2024-01-01,2024-12-31,75,0,active,8.2
+POL011,Property Insurance,2100,800000,4000,Office Building,2024-02-01,2025-01-31,72,1,active,7.5
+POL012,Cyber Liability,2800,3000000,7500,Healthcare,2024-01-15,2024-12-15,88,2,active,11.8
+POL013,General Liability,1650,1500000,2000,Restaurant,2024-03-01,2025-02-28,68,3,active,6.8
+POL014,Commercial Property,2300,900000,3500,Warehouse,2024-01-01,2024-12-31,78,1,active,8.9
+POL015,Professional Liability,1950,2500000,4000,Architecture,2024-02-15,2025-02-14,62,0,active,5.9

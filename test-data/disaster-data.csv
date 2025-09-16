@@ -1,0 +1,16 @@
+event_id,event_name,event_type,date,location,damage_estimate_millions,affected_properties,deaths,injuries,flood_risk,wind_risk,fire_risk,earthquake_risk,mitigation_measures
+DIS001,Hurricane Sandy,Natural Disaster,2012-10-29,New York Metro,19000,200000,147,2850,high,high,low,low,flood_barriers
+DIS002,Winter Storm Jonas,Natural Disaster,2016-01-23,New York Metro,500,50000,23,450,moderate,moderate,low,low,backup_power
+DIS003,Superstorm Sandy,Natural Disaster,2012-10-29,New York Metro,19000,200000,147,2850,high,high,low,low,flood_barriers
+DIS004,Blizzard of 2016,Natural Disaster,2016-01-23,New York Metro,500,50000,23,450,moderate,moderate,low,low,backup_power
+DIS005,Heat Wave 2023,Natural Disaster,2023-07-15,New York Metro,200,25000,12,180,low,low,high,low,cooling_systems
+DIS006,Flood Event 2021,Natural Disaster,2021-09-01,New York Metro,800,75000,8,120,high,moderate,low,low,flood_barriers
+DIS007,Cyber Attack 2022,Cyber Incident,2022-03-15,New York Metro,150,1000,0,0,low,low,low,low,cyber_security
+DIS008,Power Grid Failure,Infrastructure,2021-02-15,New York Metro,300,15000,5,45,low,low,low,low,backup_power
+DIS009,Fire Incident 2023,Fire,2023-05-20,New York Metro,50,500,2,15,low,low,high,low,fire_suppression
+DIS010,Wind Storm 2022,Natural Disaster,2022-11-10,New York Metro,400,30000,3,25,low,high,low,low,wind_resistance
+DIS011,Flood Event 2023,Natural Disaster,2023-04-05,New York Metro,600,60000,6,90,high,moderate,low,low,flood_barriers
+DIS012,Cyber Breach 2023,Cyber Incident,2023-08-12,New York Metro,200,1500,0,0,low,low,low,low,cyber_security
+DIS013,Heat Wave 2022,Natural Disaster,2022-07-20,New York Metro,150,20000,8,95,low,low,high,low,cooling_systems
+DIS014,Winter Storm 2023,Natural Disaster,2023-01-28,New York Metro,350,40000,15,200,moderate,moderate,low,low,backup_power
+DIS015,Flood Event 2022,Natural Disaster,2022-06-10,New York Metro,700,80000,10,150,high,moderate,low,low,flood_barriers

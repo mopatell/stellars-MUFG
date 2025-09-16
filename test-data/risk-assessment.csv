@@ -1,0 +1,11 @@
+assessment_id,property_id,assessment_date,overall_risk_score,flood_risk,fire_risk,wind_risk,earthquake_risk,crime_risk,cyber_risk,environmental_risk,recommendations,mitigation_cost
+RISK001,LOC001,2024-01-15,75,moderate,low,low,low,low,high,moderate,"Install flood barriers, upgrade cyber security",15000
+RISK002,LOC002,2024-01-20,85,high,low,moderate,low,low,high,high,"Install flood barriers, environmental monitoring",25000
+RISK003,LOC003,2024-01-25,65,low,moderate,low,low,moderate,moderate,low,"Improve security, basic cyber protection",8000
+RISK004,LOC004,2024-02-01,70,moderate,low,low,low,low,moderate,moderate,"Flood protection, cyber security upgrade",12000
+RISK005,LOC005,2024-02-05,60,low,low,low,low,low,moderate,low,"Basic cyber security measures",5000
+RISK006,LOC006,2024-02-10,68,low,low,low,low,low,moderate,low,"Cyber security upgrade",7000
+RISK007,LOC007,2024-02-15,72,moderate,moderate,low,low,moderate,moderate,moderate,"Security improvements, flood protection",10000
+RISK008,LOC008,2024-02-20,78,low,low,moderate,low,low,high,low,"Wind resistance, cyber security",18000
+RISK009,LOC009,2024-02-25,80,moderate,moderate,moderate,low,moderate,high,moderate,"Comprehensive risk mitigation",22000
+RISK010,LOC010,2024-03-01,67,low,low,low,low,low,moderate,low,"Basic security and cyber measures",6000

@@ -1,0 +1,11 @@
+property_id,address,city,state,zip_code,property_type,building_age,flood_risk,earthquake_risk,crime_rate,fire_station_distance,police_station_distance,latitude,longitude
+LOC001,123 Financial District,New York,NY,10004,commercial_office,15,moderate,low,low,0.5,0.3,40.7074,-74.0113
+LOC002,456 Wall Street,New York,NY,10005,commercial_office,25,high,low,low,0.2,0.1,40.7074,-74.0113
+LOC003,789 Broadway,New York,NY,10003,residential,8,low,low,moderate,0.8,0.6,40.7282,-73.9942
+LOC004,321 Park Avenue,New York,NY,10010,commercial_retail,12,moderate,low,low,0.4,0.2,40.7505,-73.9934
+LOC005,654 5th Avenue,New York,NY,10019,commercial_office,30,low,low,low,0.6,0.4,40.7505,-73.9934
+LOC006,987 Madison Avenue,New York,NY,10022,commercial_retail,18,low,low,low,0.3,0.2,40.7505,-73.9934
+LOC007,147 Lexington Avenue,New York,NY,10016,residential,22,moderate,low,moderate,0.7,0.5,40.7505,-73.9934
+LOC008,258 3rd Avenue,New York,NY,10003,commercial_office,14,low,low,low,0.9,0.7,40.7282,-73.9942
+LOC009,369 1st Avenue,New York,NY,10010,commercial_retail,20,moderate,low,moderate,0.5,0.3,40.7505,-73.9934
+LOC010,741 2nd Avenue,New York,NY,10016,residential,16,low,low,low,0.6,0.4,40.7505,-73.9934

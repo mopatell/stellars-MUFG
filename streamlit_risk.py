@@ -254,7 +254,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDis
 st.header("Model Evaluation - Accuracy")
 
 import xgboost as xgb
-import shap
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay

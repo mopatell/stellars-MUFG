@@ -24,7 +24,6 @@ The insurance industry is currently facing a multitude of challenges that render
 *   **Automated Data Ingestion:** Implements an ETL pipeline to ingest and process a wide variety of data, including climate data, market trends, and policy information.
 *   **APRA Compliance Focused:** Designed to ensure that all risk assessments and policy recommendations are in line with APRA's regulatory standards.
 *   **Explainable AI (XAI):** Integrates SHAP and LIME to provide clear and understandable explanations for all AI-driven decisions, which is crucial for regulatory audits and building trust with stakeholders.
-*   **Advanced Analytics:** Employs anomaly detection and time-series analysis to identify unusual patterns and predict future risks based on dynamic factors.
 
 ## How It Works
 
@@ -46,10 +45,10 @@ At the heart of RISK-GUARD AI are dual AI models that work in parallel to provid
 
 To assess risk, we employ a variety of advanced machine learning models, each selected for its strengths in handling different aspects of risk analysis:
 
-*   **Gradient Boosting Machines (XGBoost & LightGBM):** These are our primary models for analyzing tabular data, such as applicant information and policy details. They are highly effective for classification and regression tasks and are less prone to overfitting.
-*   **Random Forests:** Used alongside our gradient boosting models, Random Forests provide a robust and effective method for risk assessment.
-*   **Anomaly Detection (Isolation Forests & One-Class SVMs):** To identify fraudulent or unusual patterns in applications and claims, we use unsupervised learning techniques like Isolation Forests and One-Class SVMs.
-*   **Time-Series Analysis (ARIMA & LSTM):** To evaluate policies based on dynamic factors like climate change and market trends, we use time-series models like ARIMA and more advanced deep learning approaches like LSTM to predict future risks.
+*   **Gradient Boosting Machines (XGBoost):** This is our primary model for analyzing tabular data, such as applicant information and policy details. They are highly effective for classification and regression tasks and are less prone to overfitting.
+
+<img width="459" height="138" alt="image" src="https://github.com/user-attachments/assets/f721d2e5-11e1-485d-8efa-42652cd47b96" />
+
 
 ### 3. Decision & Review Layer
 
@@ -59,10 +58,9 @@ Once the analysis is complete, the Decision Layer combines the risk and complian
 
 A critical component of RISK-GUARD AI is our commitment to transparency, which is essential for regulatory compliance and stakeholder trust. We use state-of-the-art Explainable AI (XAI) techniques to provide a clear understanding of our models' decisions.
 
-*   **SHAP (SHapley Additive exPlanations):** SHAP provides a unified measure of feature importance, helping underwriters understand and justify why a particular recommendation was made. This is invaluable for regulatory audits and internal reviews.
-*   **LIME (Local Interpretable Model-agnostic Explanations):** LIME is used to explain individual predictions by approximating the model's behavior in the vicinity of the prediction. This helps in understanding the reasoning behind a specific decision on a case-by-case basis.
+*   **SHAP (SHapley Additive exPlanations):** SHAP provides a unified measure of feature importance, helping underwriters understand and justify why a particular recommendation was made. This is invaluable for regulatory audits and internal reviews. Thus, RISK-GUARD AI ensures that the decision-making process is not a "black box," but rather a transparent and auditable system.
 
-By integrating these XAI tools, RISK-GUARD AI ensures that the decision-making process is not a "black box," but rather a transparent and auditable system.
+<img width="983" height="217" alt="image" src="https://github.com/user-attachments/assets/54c8b3c0-05aa-4266-a6cb-7a2063c351c8" />
 
 ## Getting Started
 
@@ -74,8 +72,6 @@ To get started with RISK-GUARD AI, you will need to have the following installed
 *   LightGBM
 *   Scikit-learn
 *   SHAP
-*   LIME
-*   FastAPI
 
 Further instructions on installation and setup will be provided in the project's documentation.
 

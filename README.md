@@ -96,11 +96,14 @@ An interactive Streamlit dashboard for exploring, visualizing, and analyzing dat
 
 ```bash
 pip install -r requirements.txt
-streamlit run Professional_Streamlit_Dashboard.py
+streamlit run streamlit_risk.py
 ```
 
 <img width="1280" height="669" alt="image" src="https://github.com/user-attachments/assets/75daecd9-56a9-468b-978e-e56d3c3c35f1" />
 <img width="848" height="789" alt="image" src="https://github.com/user-attachments/assets/c88461ef-bcbe-4776-9e9a-f06981e72e1e" />
+<img width="555" height="552" alt="image" src="https://github.com/user-attachments/assets/15580ec0-57e2-4ccf-b132-bde15c2c2c61" />
+<img width="552" height="630" alt="image" src="https://github.com/user-attachments/assets/f22c8793-9966-410d-b236-867e1eb0e620" />
+
 
 
 ## Contributors

@@ -2,7 +2,6 @@
 
 ![Risk-Guard AI Logo](https://img.shields.io/badge/RISK--GUARD-AI-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-FastAPI-green)
 ![ML Libraries](https://img.shields.io/badge/ML%20Libraries-XGBoost%20%7C%20LightGBM%20%7C%20Scikit--learn-orange)
 
 ## Overview

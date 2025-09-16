@@ -75,6 +75,34 @@ To get started with RISK-GUARD AI, you will need to have the following installed
 
 Further instructions on installation and setup will be provided in the project's documentation.
 
+# Professional Streamlit Data Explorer
+
+An interactive Streamlit dashboard for exploring, visualizing, and analyzing datasets. Supports CSV uploads or built-in sample datasets (Iris, Tips, synthetic time series).
+
+## Key Features
+
+- **Data Preview & KPIs**: Rows, missing values, memory usage, first rows.
+- **Filtering**: Categorical multiselects & numeric sliders.
+- **Visualizations**:
+  - Histograms, boxplots, correlation heatmaps.
+  - Scatter plots & pairwise matrices.
+  - PCA 2D projections.
+  - Time series line charts.
+  - Altair stacked bar charts.
+- **ML Evaluation**: XGBoost classifier for target `Risk_Level_Assessed`, with accuracy and class distribution.
+- **Export**: Download filtered data as CSV.
+
+## Run
+
+```bash
+pip install -r requirements.txt
+streamlit run Professional_Streamlit_Dashboard.py
+```
+
+<img width="1280" height="669" alt="image" src="https://github.com/user-attachments/assets/75daecd9-56a9-468b-978e-e56d3c3c35f1" />
+<img width="848" height="789" alt="image" src="https://github.com/user-attachments/assets/c88461ef-bcbe-4776-9e9a-f06981e72e1e" />
+
+
 ## Contributors
 * Mohamad Ali Patel
 * Kaustubh Patil

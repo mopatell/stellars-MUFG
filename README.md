@@ -85,4 +85,3 @@ We welcome contributions to RISK-GUARD AI. If you are interested in contributing
 *   Advanced XAI techniques
 
 ---
-*This README provides a high-level overview of the RISK-GUARD AI project, focusing on its machine learning and explainable AI capabilities. For more detailed information, please refer to the project's technical documentation.*

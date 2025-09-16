@@ -27,6 +27,9 @@ The insurance industry is currently facing a multitude of challenges that render
 
 RISK-GUARD AI is architected as a multi-stage process that leverages a robust technical stack to deliver actionable insights.
 
+<img width="346" height="572" alt="image" src="https://github.com/user-attachments/assets/f12de951-e37c-4390-9f2e-56fa599605ee" />
+
+
 ### 1. ETL Pipeline: Data Ingestion and Feature Engineering
 
 The process begins with our powerful ETL (Extract, Transform, Load) pipeline, which is designed to handle diverse and complex datasets. This pipeline:
@@ -67,7 +70,6 @@ To get started with RISK-GUARD AI, you will need to have the following installed
 *   Python 3.9+
 *   Pandas
 *   XGBoost
-*   LightGBM
 *   Scikit-learn
 *   SHAP
 

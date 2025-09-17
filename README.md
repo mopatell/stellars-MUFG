@@ -1,5 +1,6 @@
-# 🚀 AI Underwriter Platform
 **📌 Note: This repository has two branches Risk-Guard and Doc-AI, each branch has different aspect of our solution.**
+
+# 🚀 AI Underwriter Platform
 
 ## 🖼️ Screenshots / Demo
 
